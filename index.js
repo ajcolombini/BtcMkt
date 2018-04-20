@@ -36,35 +36,41 @@ var tradeApi = new MercadoBitcoinTrade({
 
 function getBalance(coin, price, isBuying, callback){
     price = parseFloat(price)
-    coin = isBuying ? 'brl' : coin.toLowerCase()
+    var usedCoin = isBuying ? 'brl' : coin.toLowerCase()
 		
     tradeApi.getAccountInfo((response_data) => {
 
 		var ret = JSON.parse(JSON.stringify(response_data));
 
-        var balance = parseFloat(eval('ret.balance.' + coin + '.available')).toFixed(5); //isBuying ? parseFloat(eval('ret.balance.brl.available')).toFixed(5) : parseFloat(eval('ret.balance.' + coin + '.available')).toFixed(5);
-		balance = parseFloat(balance);
+        var balanceCoin = parseFloat(eval('ret.balance.' + coin.toLowerCase() + '.available')).toFixed(5); 
+		var balanceBRL  = parseFloat(eval('ret.balance.brl.available')).toFixed(5); 
 		
-        if(isBuying && balance < 50) 
-			return console.log('Sem saldo disponível para comprar!  BRL ' + balance)
+		//balance = parseFloat(balance);
+		
+        if(isBuying && balanceBRL < 50) 
+			return console.log('Sem saldo disponível para comprar!  BRL ' + balanceBRL)
         
-		var finalBalance = balance;
+		var finalBalance;
 		
         if(isBuying) 
 		{
-			balance = parseFloat((balance / price).toFixed(5))
+			finalBalance = parseFloat((balanceBRL / price).toFixed(5))
+		} else {
+			finalBalance = balanceCoin;
+		}
+		
+		//tira a diferença que se ganha no arredondamento
+		finalBalance = finalBalance > 0 ? (parseFloat(finalBalance) - 0.00001) : finalBalance;
 			
-			//tira a diferença que se ganha no arredondamento
-			finalBalance = (parseFloat(balance) - 0.00001);
-		} 
-		console.log(`Saldo disponível de ${coin.toUpperCase()}: ${finalBalance}`);
+		console.log(`Saldo disponível de ${coin}: ${balanceCoin}`);
+		console.log(`Saldo disponível de BRL: ${balanceBRL}`);
 		
 		callback(finalBalance);
     }, 
     (data) => console.log(data))
 }
 
-function tradeCoin(coin, priceToBuy, priceToSell, useStopProfit) {
+function tradeCoin(coin, priceToBuy, priceToSell, useStopProfit, useStopLoss) {
 	
 	var infoApi = new MercadoBitcoin({ currency: coin })
 	var tradeApi = new MercadoBitcoinTrade({ 
@@ -114,9 +120,9 @@ function tradeCoin(coin, priceToBuy, priceToSell, useStopProfit) {
 			else
 				console.log('Preço muito alto (' + response.ticker.sell + '), vamos comprar depois...');
 			
+			//Hora de vender?
 			if(!useStopProfit)
 			{
-				//Hora de vender?
 				if( response.ticker.buy >= priceToSell || (response.ticker.buy >= (response.ticker.high * 0.99)) ) 
 				{
 					getBalance(coin, response.ticker.buy, false, (balance) => {
@@ -138,11 +144,32 @@ function tradeCoin(coin, priceToBuy, priceToSell, useStopProfit) {
 				else
 					console.log('Ainda não é hora de vender ( actual:' + response.ticker.buy + ' / higher:' +  response.ticker.high + ')...');
 			}
+			
+			
+			//Stop Loss
+			getBalance(coin, response.ticker.buy, false, (balance) => {
+				 var qtyToSell = balance; 
+				 
+				 if(balance > 0){
+					 
+					 
+					 
+					// tradeApi.placeSellOrder(qtyToSell, response.ticker.last, 
+					// (data) => {
+					  // (data) => console.log('Ordem de venda de ' + qtyToSell + '  ' + coin + ',  por '  + response.ticker.last + ',  inserida no livro. ' + data),
+					  // (data) => console.log('Erro ao inserir ordem de venda  de ' + qtyToSell + '  ' + coin + ',  por '  + response.ticker.last + ' >> '  + data))
+					// }
+					
+					//teste
+					console.log('Ordem de venda de ' + qtyToSell + '  ' + coin + ',  por '  + response.ticker.buy + ',  inserida no livro. ');
+				 }
+			});
+			
 	    }),
 	    process.env.CRAWLER_INTERVAL);
 }
 
 
 //chama funcao trader
-tradeCoin('BCH', '3500', '3899', false);
+tradeCoin('BCH', '3500', '3900', false);
 
