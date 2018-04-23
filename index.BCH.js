@@ -220,7 +220,7 @@ function tradeCoin(coin, priceToBuy, priceToSell, useStopProfit, useStopLoss) {
 function log(info)
 {
 	console.log(info);
-	fs.appendFile('log.txt', info + '\r\n',
+	fs.appendFile('debug.log', info + '\r\n',
 	(err) => {
 		if (err) throw err;
 		//log('The info was appended to file!');
