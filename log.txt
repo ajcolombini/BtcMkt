@@ -1,0 +1,2910 @@
+Moeda: BTC
+Preço desejado para venda : 31200
+Usando Stop Profit? : Não
+Preço desejado para compra: 30750
+23-4-2018  11:25:38 AM
+
+Preço muito alto (30750.00000000), vamos comprar depois...
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+
+23-4-2018  11:26:08 AM
+
+Preço muito alto (30750.00000000), vamos comprar depois...
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+
+23-4-2018  11:26:38 AM
+
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524493598437.
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00795 BTC,  por 30749.99999000, inserida no livro.
+
+23-4-2018  11:27:08 AM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524493628451.
+
+23-4-2018  11:27:38 AM
+
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524493628451.
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+
+23-4-2018  11:28:08 AM
+
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524493658461.
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00797 BTC,  por 30650.00000000, inserida no livro.
+
+23-4-2018  11:28:38 AM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524493718475.
+
+23-4-2018  11:29:08 AM
+
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524493748505.
+Saldo disponível de BRL: 244.70642
+Saldo disponível de BTC: 0.00001
+Ordem de compra de 0.00797 BTC,  por 30650.00000000, inserida no livro.
+
+23-4-2018  11:29:38 AM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524493778566.
+
+23-4-2018  11:30:08 AM
+
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524493778566.
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Moeda: BTC
+Preço desejado para compra: 30650
+Usando Stop Profit? : Não
+Preço desejado para venda : 31200
+
+23-4-2018  11:30:58 AM
+Preço muito alto (30739.99993000), vamos comprar depois...
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+23-4-2018  11:31:28 AM
+
+Preço muito alto (30739.98985000), vamos comprar depois...
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+23-4-2018  11:31:58 AM
+
+Preço muito alto (30739.98992000), vamos comprar depois...
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Moeda: BTC
+Preço desejado para compra: 30650
+Preço desejado para venda : 31200
+Usando Stop Profit? : Não
+Usando Stop Loss?   : Sim
+
+23-4-2018  11:33:01 AM
+
+Preço muito alto (30749.99999000), vamos comprar depois...
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+
+23-4-2018  11:33:31 AM
+
+Preço muito alto (30749.99999000), vamos comprar depois...
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+
+23-4-2018  11:34:01 AM
+Preço muito alto (30740.00000000), vamos comprar depois...
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+
+23-4-2018  11:34:31 AM
+
+Preço muito alto (30740.00000000), vamos comprar depois...
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+23-4-2018  11:35:01 AM
+
+Preço muito alto (30750.00000000), vamos comprar depois...
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Moeda: BTC
+Preço desejado para compra: 30760
+Usando Stop Profit? : Não
+Preço desejado para venda : 31200
+Usando Stop Loss?   : Sim
+
+
+23-4-2018  11:36:04 AM
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524494164964.
+
+23-4-2018  11:36:34 AM
+
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524494194818.
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+
+23-4-2018  11:37:04 AM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524494224801.
+
+23-4-2018  11:37:34 AM
+
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524494254941.
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00795 BTC,  por 30747.98984000, inserida no livro.
+
+23-4-2018  11:38:04 AM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524494284940.
+
+23-4-2018  11:38:34 AM
+
+Saldo disponível de BRL: 244.70642
+Saldo disponível de BTC: 0.00001
+Ordem de compra de 0.00796 BTC,  por 30716.98990000, inserida no livro.
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524494314861.
+
+23-4-2018  11:39:04 AM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524494344876.
+
+23-4-2018  11:39:34 AM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00796 BTC,  por 30714.99999000, inserida no livro.
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524494374891.
+23-4-2018  11:40:04 AM
+
+
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524494404909.
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+
+23-4-2018  11:40:43 AM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00796 BTC,  por 30714.95998000, inserida no livro.
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524494443012.
+
+23-4-2018  11:41:05 AM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524494465036.
+
+23-4-2018  11:41:34 AM
+
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524494494908.
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+
+23-4-2018  11:42:04 AM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00796 BTC,  por 30699.96999000, inserida no livro.
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524494524963.
+
+23-4-2018  11:42:34 AM
+
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524494554955.
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00796 BTC,  por 30699.95998000, inserida no livro.
+
+23-4-2018  11:43:04 AM
+
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524494584938.
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00796 BTC,  por 30699.94997000, inserida no livro.
+
+23-4-2018  11:43:35 AM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00796 BTC,  por 30699.92997000, inserida no livro.
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524494615016.
+
+23-4-2018  11:44:04 AM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00796 BTC,  por 30698.01000000, inserida no livro.
+
+23-4-2018  11:44:34 AM
+
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524494644984.
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00796 BTC,  por 30697.99999000, inserida no livro.
+
+23-4-2018  11:45:04 AM
+
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524494674969.
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+
+23-4-2018  11:45:35 AM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00796 BTC,  por 30697.96998000, inserida no livro.
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524494735014.
+
+23-4-2018  11:46:05 AM
+
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524494765029.
+Saldo disponível de BRL: 244.70642
+Saldo disponível de BTC: 0.00001
+Ordem de compra de 0.00796 BTC,  por 30697.97997000, inserida no livro.
+
+23-4-2018  11:46:35 AM
+
+Ainda não é hora de vender ( actual:30449.00002000 / higher:30799.00000000)...
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00796 BTC,  por 30696.99000000, inserida no livro.
+
+23-4-2018  11:47:05 AM
+
+Ainda não é hora de vender ( actual:30449.00002000 / higher:30799.00000000)...
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00796 BTC,  por 30695.99993000, inserida no livro.
+
+23-4-2018  11:47:35 AM
+
+Ainda não é hora de vender ( actual:30449.00002000 / higher:30799.00000000)...
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00796 BTC,  por 30695.97977000, inserida no livro.
+
+
+23-4-2018  11:48:05 AM
+Ainda não é hora de vender ( actual:30449.98993000 / higher:30799.00000000)...
+Saldo disponível de BRL: 244.70642
+Saldo disponível de BTC: 0.00001
+Ordem de compra de 0.00796 BTC,  por 30686.00000000, inserida no livro.
+
+23-4-2018  11:48:35 AM
+
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524494915117.
+Saldo disponível de BRL: 244.70642
+Saldo disponível de BTC: 0.00001
+Ordem de compra de 0.00796 BTC,  por 30685.97993000, inserida no livro.
+
+23-4-2018  11:49:05 AM
+
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524494915117.
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+
+23-4-2018  11:49:35 AM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524494975162.
+
+23-4-2018  11:50:05 AM
+
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524495005152.
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00797 BTC,  por 30671.39000000, inserida no livro.
+23-4-2018  11:50:35 AM
+
+
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524495005152.
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00797 BTC,  por 30671.39000000, inserida no livro.
+
+23-4-2018  11:51:05 AM
+
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524495035135.
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00797 BTC,  por 30670.00000000, inserida no livro.
+
+23-4-2018  11:51:35 AM
+
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524495065166.
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+
+23-4-2018  11:52:05 AM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524495125304.
+
+23-4-2018  11:52:35 AM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00797 BTC,  por 30670.00000000, inserida no livro.
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524495155209.
+
+23-4-2018  11:53:05 AM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524495185224.
+23-4-2018  11:53:35 AM
+
+
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524495185224.
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00797 BTC,  por 30650.00000000, inserida no livro.
+23-4-2018  11:54:05 AM
+
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524495245300.
+23-4-2018  11:54:35 AM
+
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00797 BTC,  por 30649.99000000, inserida no livro.
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524495275268.
+23-4-2018  11:55:05 AM
+
+
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524495305283.
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+
+23-4-2018  11:55:35 AM
+
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524495305283.
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00796 BTC,  por 30698.02000000, inserida no livro.
+
+23-4-2018  11:56:05 AM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00796 BTC,  por 30698.02000000, inserida no livro.
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524495365327.
+
+23-4-2018  11:56:35 AM
+
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524495395326.
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+
+
+23-4-2018  11:57:05 AM
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00796 BTC,  por 30698.01999000, inserida no livro.
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524495425465.
+23-4-2018  11:57:35 AM
+
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00796 BTC,  por 30698.00999000, inserida no livro.
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524495455464.
+
+23-4-2018  11:58:05 AM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00796 BTC,  por 30698.02000000, inserida no livro.
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524495485369.
+
+23-4-2018  11:58:35 AM
+
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524495485369.
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+
+23-4-2018  11:59:05 AM
+
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524495515384.
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+
+23-4-2018  11:59:35 AM
+
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524495545399.
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00796 BTC,  por 30699.90490000, inserida no livro.
+
+23-4-2018  12:00:05 PM
+
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524495575414.
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00796 BTC,  por 30699.89489000, inserida no livro.
+
+23-4-2018  12:00:35 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00801 BTC,  por 30500.98000000, inserida no livro.
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524495635442.
+
+23-4-2018  12:01:05 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524495665459.
+
+23-4-2018  12:01:35 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00796 BTC,  por 30699.90489000, inserida no livro.
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524495695437.
+
+23-4-2018  12:02:05 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00796 BTC,  por 30699.90490000, inserida no livro.
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524495725482.
+
+23-4-2018  12:02:35 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524495755730.
+
+23-4-2018  12:03:05 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00796 BTC,  por 30701.00000000, inserida no livro.
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524495785621.
+
+23-4-2018  12:03:35 PM
+
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524495785621.
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+
+23-4-2018  12:04:05 PM
+
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524495815635.
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+
+23-4-2018  12:04:35 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524495875649.
+
+23-4-2018  12:05:05 PM
+
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524495905569.
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+
+23-4-2018  12:05:35 PM
+
+Saldo disponível de BRL: 244.70642
+Saldo disponível de BTC: 0.00001
+Ordem de compra de 0.00796 BTC,  por 30701.00000000, inserida no livro.
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524495935569.
+
+23-4-2018  12:06:05 PM
+
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524495935569.
+Saldo disponível de BRL: 244.70642
+Saldo disponível de BTC: 0.00001
+
+23-4-2018  12:06:35 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00796 BTC,  por 30701.00000000, inserida no livro.
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524495995723.
+23-4-2018  12:07:05 PM
+
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524496025737.
+
+23-4-2018  12:07:35 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00796 BTC,  por 30701.00000000, inserida no livro.
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524496055783.
+
+23-4-2018  12:08:05 PM
+
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524496055783.
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+
+23-4-2018  12:08:35 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524496115672.
+
+23-4-2018  12:09:05 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00796 BTC,  por 30701.00000000, inserida no livro.
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524496145702.
+
+23-4-2018  12:09:35 PM
+
+Ainda não é hora de vender ( actual:30450.99000000 / higher:30799.00000000)...
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00801 BTC,  por 30500.00000000, inserida no livro.
+
+23-4-2018  12:10:05 PM
+
+Ainda não é hora de vender ( actual:30450.99000000 / higher:30799.00000000)...
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00801 BTC,  por 30500.00000000, inserida no livro.
+
+23-4-2018  12:10:35 PM
+
+Ainda não é hora de vender ( actual:30450.99000000 / higher:30799.00000000)...
+Saldo disponível de BTC: 0.00001
+Ordem de compra de 0.00801 BTC,  por 30500.00000000, inserida no livro.
+Saldo disponível de BRL: 244.70642
+
+23-4-2018  12:11:05 PM
+Ainda não é hora de vender ( actual:30450.99000000 / higher:30799.00000000)...
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00801 BTC,  por 30500.00000000, inserida no livro.
+
+23-4-2018  12:11:35 PM
+
+Ainda não é hora de vender ( actual:30450.99000000 / higher:30799.00000000)...
+Saldo disponível de BRL: 244.70642
+Saldo disponível de BTC: 0.00001
+Ordem de compra de 0.00801 BTC,  por 30500.00000000, inserida no livro.
+
+23-4-2018  12:12:05 PM
+
+Ainda não é hora de vender ( actual:30450.99000000 / higher:30799.00000000)...
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00801 BTC,  por 30500.00000000, inserida no livro.
+23-4-2018  12:12:35 PM
+
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00796 BTC,  por 30701.00000000, inserida no livro.
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524496355788.
+
+23-4-2018  12:13:05 PM
+
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524496355788.
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00795 BTC,  por 30749.99993000, inserida no livro.
+
+23-4-2018  12:13:35 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524496415818.
+
+23-4-2018  12:14:05 PM
+
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524496415818.
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+
+23-4-2018  12:14:35 PM
+
+Ainda não é hora de vender ( actual:30401.00000000 / higher:30799.00000000)...
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00795 BTC,  por 30749.97000000, inserida no livro.
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524496475832.
+
+23-4-2018  12:15:05 PM
+
+Ainda não é hora de vender ( actual:30400.01001000 / higher:30799.00000000)...
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524496475832.
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+
+23-4-2018  12:15:35 PM
+
+Ainda não é hora de vender ( actual:30400.01000000 / higher:30799.00000000)...
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00797 BTC,  por 30679.00000000, inserida no livro.
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524496535892.
+
+23-4-2018  12:16:05 PM
+
+Ainda não é hora de vender ( actual:30400.00000000 / higher:30799.00000000)...
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00797 BTC,  por 30678.95000000, inserida no livro.
+
+23-4-2018  12:16:35 PM
+Ainda não é hora de vender ( actual:30400.00000000 / higher:30799.00000000)...
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00797 BTC,  por 30678.90000000, inserida no livro.
+
+23-4-2018  12:17:05 PM
+Ainda não é hora de vender ( actual:30400.01000000 / higher:30799.00000000)...
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00797 BTC,  por 30678.85000000, inserida no livro.
+
+23-4-2018  12:17:35 PM
+Ainda não é hora de vender ( actual:30370.00000000 / higher:30799.00000000)...
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00797 BTC,  por 30678.04992000, inserida no livro.
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524496655919.
+
+23-4-2018  12:18:06 PM
+
+Ainda não é hora de vender ( actual:30370.00000000 / higher:30799.00000000)...
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524496655919.
+Saldo disponível de BTC: 0.00001
+Ordem de compra de 0.00797 BTC,  por 30677.96000000, inserida no livro.
+Saldo disponível de BRL: 244.70642
+23-4-2018  12:18:36 PM
+
+
+Ainda não é hora de vender ( actual:30370.00000000 / higher:30799.00000000)...
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524496716058.
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+
+23-4-2018  12:19:06 PM
+
+Ainda não é hora de vender ( actual:30370.00000000 / higher:30799.00000000)...
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524496716058.
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.008 BTC,  por 30550.00000000, inserida no livro.
+
+23-4-2018  12:19:36 PM
+Ainda não é hora de vender ( actual:30370.00000000 / higher:30799.00000000)...
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.008 BTC,  por 30550.00000000, inserida no livro.
+
+23-4-2018  12:20:06 PM
+
+Ainda não é hora de vender ( actual:30320.00002000 / higher:30799.00000000)...
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.008 BTC,  por 30549.99984000, inserida no livro.
+
+23-4-2018  12:20:36 PM
+
+Ainda não é hora de vender ( actual:30320.00002000 / higher:30799.00000000)...
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.008 BTC,  por 30549.98968000, inserida no livro.
+
+23-4-2018  12:21:06 PM
+
+Ainda não é hora de vender ( actual:30320.00002000 / higher:30799.00000000)...
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.008 BTC,  por 30549.98956000, inserida no livro.
+
+23-4-2018  12:21:36 PM
+
+Ainda não é hora de vender ( actual:30320.00002000 / higher:30799.00000000)...
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.008 BTC,  por 30549.98939000, inserida no livro.
+
+23-4-2018  12:22:06 PM
+
+Ainda não é hora de vender ( actual:30320.00002000 / higher:30799.00000000)...
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.008 BTC,  por 30549.98921000, inserida no livro.
+
+23-4-2018  12:22:36 PM
+
+Ainda não é hora de vender ( actual:30320.00000000 / higher:30799.00000000)...
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.008 BTC,  por 30549.97912000, inserida no livro.
+
+23-4-2018  12:23:06 PM
+
+Ainda não é hora de vender ( actual:30320.00000000 / higher:30799.00000000)...
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.008 BTC,  por 30549.97912000, inserida no livro.
+
+23-4-2018  12:23:36 PM
+Ainda não é hora de vender ( actual:30320.00003000 / higher:30799.00000000)...
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.008 BTC,  por 30549.97896000, inserida no livro.
+
+23-4-2018  12:24:06 PM
+Ainda não é hora de vender ( actual:30320.00003000 / higher:30799.00000000)...
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.008 BTC,  por 30549.96879000, inserida no livro.
+
+23-4-2018  12:24:36 PM
+
+Ainda não é hora de vender ( actual:30320.00003000 / higher:30799.00000000)...
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.008 BTC,  por 30549.96859000, inserida no livro.
+
+23-4-2018  12:25:06 PM
+
+Ainda não é hora de vender ( actual:30320.00003000 / higher:30799.00000000)...
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.008 BTC,  por 30549.96851000, inserida no livro.
+
+23-4-2018  12:25:36 PM
+
+Ainda não é hora de vender ( actual:30320.00000000 / higher:30799.00000000)...
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.008 BTC,  por 30549.94993000, inserida no livro.
+
+23-4-2018  12:26:06 PM
+
+Ainda não é hora de vender ( actual:30320.00002000 / higher:30799.00000000)...
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.008 BTC,  por 30549.93991000, inserida no livro.
+
+23-4-2018  12:26:36 PM
+Ainda não é hora de vender ( actual:30320.00002000 / higher:30799.00000000)...
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.008 BTC,  por 30549.93975000, inserida no livro.
+
+23-4-2018  12:27:06 PM
+
+Ainda não é hora de vender ( actual:30320.00002000 / higher:30799.00000000)...
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.008 BTC,  por 30549.88992000, inserida no livro.
+
+
+23-4-2018  12:27:36 PM
+Ainda não é hora de vender ( actual:30320.00000000 / higher:30799.00000000)...
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.008 BTC,  por 30548.99993000, inserida no livro.
+
+23-4-2018  12:28:06 PM
+
+Ainda não é hora de vender ( actual:30320.00001000 / higher:30799.00000000)...
+Saldo disponível de BRL: 244.70642
+Saldo disponível de BTC: 0.00001
+Ordem de compra de 0.008 BTC,  por 30548.98976000, inserida no livro.
+
+23-4-2018  12:28:36 PM
+
+Ainda não é hora de vender ( actual:30320.00000000 / higher:30799.00000000)...
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.008 BTC,  por 30548.98959000, inserida no livro.
+
+23-4-2018  12:29:06 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.008 BTC,  por 30549.00000000, inserida no livro.
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524497346317.
+
+23-4-2018  12:29:36 PM
+
+Saldo disponível de BRL: 244.70642
+Saldo disponível de BTC: 0.00001
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524497376269.
+
+23-4-2018  12:30:06 PM
+
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524497376269.
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.008 BTC,  por 30548.99000000, inserida no livro.
+
+23-4-2018  12:30:36 PM
+
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524497406300.
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.008 BTC,  por 30548.99000000, inserida no livro.
+
+23-4-2018  12:31:06 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524497466329.
+
+23-4-2018  12:31:36 PM
+
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524497466329.
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+
+23-4-2018  12:32:06 PM
+
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524497526358.
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.008 BTC,  por 30548.99000000, inserida no livro.
+
+23-4-2018  12:32:36 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524497556372.
+
+23-4-2018  12:33:06 PM
+
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524497556372.
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+
+23-4-2018  12:33:36 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524497616402.
+
+23-4-2018  12:34:06 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.008 BTC,  por 30548.99000000, inserida no livro.
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524497646541.
+
+23-4-2018  12:34:36 PM
+
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524497646541.
+Saldo disponível de BRL: 244.70642
+Saldo disponível de BTC: 0.00001
+Ordem de compra de 0.008 BTC,  por 30548.99000000, inserida no livro.
+
+23-4-2018  12:35:06 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524497706461.
+
+23-4-2018  12:35:36 PM
+
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524497706461.
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.008 BTC,  por 30548.99900000, inserida no livro.
+
+23-4-2018  12:36:06 PM
+
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524497736445.
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+
+23-4-2018  12:36:36 PM
+
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524497766569.
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.008 BTC,  por 30548.99900000, inserida no livro.
+
+23-4-2018  12:37:06 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524497826599.
+
+23-4-2018  12:37:36 PM
+
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524497826599.
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.008 BTC,  por 30548.99900000, inserida no livro.
+
+23-4-2018  12:38:06 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Saldo disponível de BRL: 244.70642
+Saldo disponível de BTC: 0.00001
+Ordem de compra de 0.008 BTC,  por 30548.99900000, inserida no livro.
+
+23-4-2018  12:38:36 PM
+
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524497916533.
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.008 BTC,  por 30548.99900000, inserida no livro.
+
+23-4-2018  12:39:06 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524497946782.
+23-4-2018  12:39:36 PM
+
+
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524497976702.
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.008 BTC,  por 30548.98984000, inserida no livro.
+
+23-4-2018  12:40:06 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524498006592.
+
+23-4-2018  12:40:36 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524498036591.
+
+23-4-2018  12:41:06 PM
+
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524498066715.
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+
+23-4-2018  12:41:36 PM
+
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524498066715.
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.008 BTC,  por 30548.98984000, inserida no livro.
+
+23-4-2018  12:42:06 PM
+
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524498126651.
+Saldo disponível de BRL: 244.70642
+Saldo disponível de BTC: 0.00001
+
+23-4-2018  12:42:36 PM
+
+Ainda não é hora de vender ( actual:30401.00000000 / higher:30799.00000000)...
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.008 BTC,  por 30548.98984000, inserida no livro.
+
+23-4-2018  12:43:06 PM
+Ainda não é hora de vender ( actual:30401.00000000 / higher:30799.00000000)...
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.008 BTC,  por 30548.98984000, inserida no livro.
+
+23-4-2018  12:43:36 PM
+Ainda não é hora de vender ( actual:30401.00000000 / higher:30799.00000000)...
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.008 BTC,  por 30548.98984000, inserida no livro.
+
+23-4-2018  12:44:06 PM
+
+Ainda não é hora de vender ( actual:30401.00000000 / higher:30799.00000000)...
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.008 BTC,  por 30548.98984000, inserida no livro.
+
+23-4-2018  12:44:36 PM
+Ainda não é hora de vender ( actual:30401.00000000 / higher:30799.00000000)...
+
+Saldo disponível de BTC: 0.00001
+Ordem de compra de 0.008 BTC,  por 30548.98984000, inserida no livro.
+Saldo disponível de BRL: 244.70642
+
+23-4-2018  12:45:06 PM
+Ainda não é hora de vender ( actual:30401.00000000 / higher:30799.00000000)...
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00801 BTC,  por 30498.80000000, inserida no livro.
+
+23-4-2018  12:45:36 PM
+
+Ainda não é hora de vender ( actual:30461.80200000 / higher:30799.00000000)...
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00801 BTC,  por 30498.80000000, inserida no livro.
+23-4-2018  12:46:06 PM
+
+Ainda não é hora de vender ( actual:30461.80200000 / higher:30799.00000000)...
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00801 BTC,  por 30498.80000000, inserida no livro.
+
+23-4-2018  12:46:36 PM
+
+Ainda não é hora de vender ( actual:30461.80200000 / higher:30799.00000000)...
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00801 BTC,  por 30498.80000000, inserida no livro.
+
+23-4-2018  12:47:06 PM
+Ainda não é hora de vender ( actual:30461.80200000 / higher:30799.00000000)...
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00801 BTC,  por 30498.80000000, inserida no livro.
+
+23-4-2018  12:47:36 PM
+
+Ainda não é hora de vender ( actual:30461.80200000 / higher:30799.00000000)...
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00801 BTC,  por 30498.80000000, inserida no livro.
+
+23-4-2018  12:48:06 PM
+
+Ainda não é hora de vender ( actual:30461.80200000 / higher:30799.00000000)...
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00801 BTC,  por 30498.80000000, inserida no livro.
+
+23-4-2018  12:48:36 PM
+
+Ainda não é hora de vender ( actual:30461.80200000 / higher:30799.00000000)...
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00801 BTC,  por 30498.80000000, inserida no livro.
+
+23-4-2018  12:49:06 PM
+
+Ainda não é hora de vender ( actual:30461.80200000 / higher:30799.00000000)...
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00801 BTC,  por 30498.80000000, inserida no livro.
+
+23-4-2018  12:49:46 PM
+
+Ainda não é hora de vender ( actual:30461.80200000 / higher:30799.00000000)...
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00801 BTC,  por 30498.80000000, inserida no livro.
+
+23-4-2018  12:50:06 PM
+Ainda não é hora de vender ( actual:30461.80200000 / higher:30799.00000000)...
+
+Saldo disponível de BRL: 244.70642
+Saldo disponível de BTC: 0.00001
+Ordem de compra de 0.00801 BTC,  por 30498.80000000, inserida no livro.
+
+23-4-2018  12:50:36 PM
+
+Ainda não é hora de vender ( actual:30461.80200000 / higher:30799.00000000)...
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00801 BTC,  por 30498.80000000, inserida no livro.
+
+23-4-2018  12:51:06 PM
+
+Ainda não é hora de vender ( actual:30461.80200000 / higher:30799.00000000)...
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00801 BTC,  por 30498.80000000, inserida no livro.
+
+23-4-2018  12:51:36 PM
+Ainda não é hora de vender ( actual:30461.80200000 / higher:30799.00000000)...
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00801 BTC,  por 30498.80000000, inserida no livro.
+
+23-4-2018  12:52:06 PM
+
+Ainda não é hora de vender ( actual:30461.80200000 / higher:30799.00000000)...
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00801 BTC,  por 30500.00000000, inserida no livro.
+
+23-4-2018  12:52:36 PM
+
+Ainda não é hora de vender ( actual:30461.80200000 / higher:30799.00000000)...
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00801 BTC,  por 30500.00000000, inserida no livro.
+
+23-4-2018  12:53:06 PM
+
+Ainda não é hora de vender ( actual:30461.80200000 / higher:30799.00000000)...
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00801 BTC,  por 30500.00000000, inserida no livro.
+
+23-4-2018  12:53:36 PM
+
+Ainda não é hora de vender ( actual:30461.80200000 / higher:30799.00000000)...
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00801 BTC,  por 30500.00000000, inserida no livro.
+
+23-4-2018  12:54:07 PM
+Ainda não é hora de vender ( actual:30461.80200000 / higher:30799.00000000)...
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00801 BTC,  por 30500.00000000, inserida no livro.
+
+23-4-2018  12:54:37 PM
+
+Ainda não é hora de vender ( actual:30461.80200000 / higher:30799.00000000)...
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00801 BTC,  por 30500.00000000, inserida no livro.
+
+23-4-2018  12:55:07 PM
+Ainda não é hora de vender ( actual:30461.80200000 / higher:30799.00000000)...
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00801 BTC,  por 30500.00000000, inserida no livro.
+
+23-4-2018  12:55:37 PM
+Ainda não é hora de vender ( actual:30401.00000000 / higher:30799.00000000)...
+
+Saldo disponível de BRL: 244.70642
+Saldo disponível de BTC: 0.00001
+Ordem de compra de 0.00801 BTC,  por 30500.00000000, inserida no livro.
+
+23-4-2018  12:56:07 PM
+Ainda não é hora de vender ( actual:30401.00000000 / higher:30799.00000000)...
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00801 BTC,  por 30500.00000000, inserida no livro.
+
+23-4-2018  12:56:37 PM
+
+Ainda não é hora de vender ( actual:30401.00000000 / higher:30799.00000000)...
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00801 BTC,  por 30500.00000000, inserida no livro.
+
+
+23-4-2018  12:57:07 PM
+Ainda não é hora de vender ( actual:30401.00000000 / higher:30799.00000000)...
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00801 BTC,  por 30500.00000000, inserida no livro.
+
+23-4-2018  12:57:37 PM
+
+Ainda não é hora de vender ( actual:30400.00000000 / higher:30799.00000000)...
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00801 BTC,  por 30500.00000000, inserida no livro.
+
+23-4-2018  12:58:07 PM
+
+Ainda não é hora de vender ( actual:30400.00000000 / higher:30799.00000000)...
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00801 BTC,  por 30500.00000000, inserida no livro.
+
+23-4-2018  12:58:37 PM
+Ainda não é hora de vender ( actual:30400.00000000 / higher:30799.00000000)...
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00801 BTC,  por 30500.00000000, inserida no livro.
+
+23-4-2018  12:59:07 PM
+
+Ainda não é hora de vender ( actual:30425.00000000 / higher:30799.00000000)...
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00801 BTC,  por 30500.00000000, inserida no livro.
+
+23-4-2018  12:59:37 PM
+
+Ainda não é hora de vender ( actual:30425.00000000 / higher:30799.00000000)...
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00801 BTC,  por 30500.00000000, inserida no livro.
+
+23-4-2018  13:00:07 PM
+Ainda não é hora de vender ( actual:30425.00000000 / higher:30799.00000000)...
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00801 BTC,  por 30500.00000000, inserida no livro.
+
+23-4-2018  13:00:37 PM
+
+Ainda não é hora de vender ( actual:30425.00000000 / higher:30799.00000000)...
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00801 BTC,  por 30500.00000000, inserida no livro.
+
+23-4-2018  13:01:07 PM
+
+Ainda não é hora de vender ( actual:30425.00000000 / higher:30799.00000000)...
+Saldo disponível de BRL: 244.70642
+Saldo disponível de BTC: 0.00001
+Ordem de compra de 0.00801 BTC,  por 30500.00000000, inserida no livro.
+
+23-4-2018  13:01:37 PM
+
+Ainda não é hora de vender ( actual:30341.00001000 / higher:30799.00000000)...
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00801 BTC,  por 30500.00000000, inserida no livro.
+
+23-4-2018  13:02:07 PM
+
+Ainda não é hora de vender ( actual:30341.01001000 / higher:30799.00000000)...
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00801 BTC,  por 30500.00000000, inserida no livro.
+
+23-4-2018  13:02:37 PM
+
+Ainda não é hora de vender ( actual:30341.01001000 / higher:30799.00000000)...
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00801 BTC,  por 30500.00000000, inserida no livro.
+
+23-4-2018  13:03:07 PM
+
+Ainda não é hora de vender ( actual:30341.01005000 / higher:30799.00000000)...
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00801 BTC,  por 30500.00000000, inserida no livro.
+
+23-4-2018  13:03:37 PM
+Ainda não é hora de vender ( actual:30341.01005000 / higher:30799.00000000)...
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00801 BTC,  por 30500.00000000, inserida no livro.
+
+23-4-2018  13:04:07 PM
+
+Ainda não é hora de vender ( actual:30341.02007000 / higher:30799.00000000)...
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00801 BTC,  por 30500.00000000, inserida no livro.
+
+23-4-2018  13:04:37 PM
+
+Ainda não é hora de vender ( actual:30341.02007000 / higher:30799.00000000)...
+Saldo disponível de BRL: 244.70642
+Saldo disponível de BTC: 0.00001
+Ordem de compra de 0.00801 BTC,  por 30500.00000000, inserida no livro.
+
+23-4-2018  13:05:07 PM
+Ainda não é hora de vender ( actual:30341.02007000 / higher:30799.00000000)...
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00801 BTC,  por 30500.00000000, inserida no livro.
+
+23-4-2018  13:05:37 PM
+
+Ainda não é hora de vender ( actual:30342.00002000 / higher:30799.00000000)...
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00801 BTC,  por 30500.00000000, inserida no livro.
+
+23-4-2018  13:06:07 PM
+
+Ainda não é hora de vender ( actual:30342.01002000 / higher:30799.00000000)...
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00801 BTC,  por 30500.00000000, inserida no livro.
+
+23-4-2018  13:06:37 PM
+
+Ainda não é hora de vender ( actual:30331.00001000 / higher:30799.00000000)...
+Saldo disponível de BRL: 244.70642
+Saldo disponível de BTC: 0.00001
+Ordem de compra de 0.00801 BTC,  por 30499.00000000, inserida no livro.
+23-4-2018  13:07:07 PM
+
+Ainda não é hora de vender ( actual:30332.00000000 / higher:30799.00000000)...
+
+Saldo disponível de BTC: 0.00001
+Ordem de compra de 0.00801 BTC,  por 30499.00000000, inserida no livro.
+Saldo disponível de BRL: 244.70642
+
+23-4-2018  13:07:37 PM
+
+Ainda não é hora de vender ( actual:30332.01001000 / higher:30799.00000000)...
+Saldo disponível de BRL: 244.70642
+Saldo disponível de BTC: 0.00001
+Ordem de compra de 0.008 BTC,  por 30547.98976000, inserida no livro.
+
+23-4-2018  13:08:07 PM
+
+Ainda não é hora de vender ( actual:30333.00000000 / higher:30799.00000000)...
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.008 BTC,  por 30547.98976000, inserida no livro.
+
+23-4-2018  13:08:37 PM
+
+Ainda não é hora de vender ( actual:30333.00002000 / higher:30799.00000000)...
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.008 BTC,  por 30547.98976000, inserida no livro.
+
+23-4-2018  13:09:07 PM
+
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524499717425.
+Saldo disponível de BRL: 244.70642
+Saldo disponível de BTC: 0.00001
+Ordem de compra de 0.008 BTC,  por 30547.98976000, inserida no livro.
+
+23-4-2018  13:09:37 PM
+
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524499777546.
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+
+23-4-2018  13:10:07 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524499807467.
+
+23-4-2018  13:10:37 PM
+
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524499807467.
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+
+23-4-2018  13:11:07 PM
+
+Saldo disponível de BRL: 244.70642
+Saldo disponível de BTC: 0.00001
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524499867497.
+
+23-4-2018  13:11:37 PM
+
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524499867497.
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+
+23-4-2018  13:12:07 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524499927526.
+
+23-4-2018  13:12:37 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524499957540.
+
+23-4-2018  13:13:07 PM
+
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524499957540.
+Saldo disponível de BRL: 244.70642
+Saldo disponível de BTC: 0.00001
+Ordem de compra de 0.008 BTC,  por 30547.98984000, inserida no livro.
+
+23-4-2018  13:13:37 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524500017570.
+
+23-4-2018  13:14:07 PM
+
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524500017570.
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.008 BTC,  por 30548.12345000, inserida no livro.
+23-4-2018  13:14:37 PM
+
+
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524500047600.
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+
+23-4-2018  13:15:07 PM
+
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524500077599.
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.008 BTC,  por 30548.12345000, inserida no livro.
+
+23-4-2018  13:15:37 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.008 BTC,  por 30548.12345000, inserida no livro.
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524500137629.
+
+23-4-2018  13:16:07 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.008 BTC,  por 30548.12345000, inserida no livro.
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524500167768.
+
+23-4-2018  13:16:37 PM
+
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524500167768.
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+
+23-4-2018  13:17:07 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524500227673.
+
+23-4-2018  13:17:37 PM
+
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524500227673.
+Saldo disponível de BRL: 244.70642
+Saldo disponível de BTC: 0.00001
+Ordem de compra de 0.008 BTC,  por 30540.00000000, inserida no livro.
+23-4-2018  13:18:07 PM
+
+
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524500257687.
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.008 BTC,  por 30540.00000000, inserida no livro.
+
+23-4-2018  13:18:37 PM
+
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524500287701.
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.008 BTC,  por 30540.00000000, inserida no livro.
+
+23-4-2018  13:19:07 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.008 BTC,  por 30540.00000000, inserida no livro.
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524500347730.
+
+23-4-2018  13:19:38 PM
+
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524500347730.
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+
+23-4-2018  13:20:07 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.008 BTC,  por 30540.00000000, inserida no livro.
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+
+23-4-2018  13:20:37 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.008 BTC,  por 30540.00000000, inserida no livro.
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524500437744.
+
+23-4-2018  13:21:07 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.008 BTC,  por 30540.00000000, inserida no livro.
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+
+23-4-2018  13:21:37 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524500497789.
+
+23-4-2018  13:22:07 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.008 BTC,  por 30540.00000000, inserida no livro.
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524500527788.
+
+23-4-2018  13:22:37 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524500557782.
+
+23-4-2018  13:23:07 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524500587810.
+
+23-4-2018  13:23:37 PM
+
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524500587810.
+Saldo disponível de BRL: 244.70642
+Saldo disponível de BTC: 0.00001
+Ordem de compra de 0.008 BTC,  por 30540.00000000, inserida no livro.
+23-4-2018  13:24:07 PM
+
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.008 BTC,  por 30540.00000000, inserida no livro.
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+23-4-2018  13:24:37 PM
+
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524500677846.
+
+
+23-4-2018  13:25:07 PM
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524500707849.
+
+23-4-2018  13:25:37 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524500737845.
+
+23-4-2018  13:26:07 PM
+
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524500737845.
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+
+23-4-2018  13:26:37 PM
+
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524500767865.
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00797 BTC,  por 30650.00000000, inserida no livro.
+
+23-4-2018  13:27:07 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00797 BTC,  por 30650.00000000, inserida no livro.
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524500827860.
+
+
+23-4-2018  13:27:37 PM
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524500857879.
+
+23-4-2018  13:28:07 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524500887883.
+
+23-4-2018  13:28:37 PM
+
+Saldo disponível de BRL: 244.70642
+Saldo disponível de BTC: 0.00001
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524500917953.
+
+23-4-2018  13:29:07 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00797 BTC,  por 30650.12345000, inserida no livro.
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524500947883.
+
+23-4-2018  13:29:37 PM
+
+Saldo disponível de BRL: 244.70642
+Saldo disponível de BTC: 0.00001
+Ordem de compra de 0.00797 BTC,  por 30650.00000000, inserida no livro.
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524500977869.
+
+23-4-2018  13:30:07 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524501007896.
+
+23-4-2018  13:30:38 PM
+
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524501007896.
+Saldo disponível de BRL: 244.70642
+Saldo disponível de BTC: 0.00001
+Ordem de compra de 0.00797 BTC,  por 30650.00000000, inserida no livro.
+
+23-4-2018  13:31:08 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00797 BTC,  por 30650.00000000, inserida no livro.
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524501068010.
+
+23-4-2018  13:31:38 PM
+
+Saldo disponível de BRL: 244.70642
+Saldo disponível de BTC: 0.00001
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524501098026.
+
+23-4-2018  13:32:07 PM
+
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524501098026.
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00797 BTC,  por 30649.99000000, inserida no livro.
+23-4-2018  13:32:37 PM
+
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00797 BTC,  por 30649.99000000, inserida no livro.
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524501157914.
+23-4-2018  13:33:07 PM
+
+
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524501157914.
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00797 BTC,  por 30649.99000000, inserida no livro.
+
+23-4-2018  13:33:37 PM
+
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524501187944.
+Saldo disponível de BRL: 244.70642
+Saldo disponível de BTC: 0.00001
+
+23-4-2018  13:34:07 PM
+
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524501247965.
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+
+23-4-2018  13:34:38 PM
+
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524501247965.
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00797 BTC,  por 30650.11345000, inserida no livro.
+
+23-4-2018  13:35:08 PM
+
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524501278095.
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+
+
+23-4-2018  13:35:37 PM
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524501308078.
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+
+23-4-2018  13:36:08 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524501368006.
+
+23-4-2018  13:36:37 PM
+
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524501368006.
+Saldo disponível de BRL: 244.70642
+Saldo disponível de BTC: 0.00001
+Moeda: BTC
+Preço desejado para compra: 30560
+Usando Stop Loss?   : Sim
+Preço desejado para venda : 31200
+Usando Stop Profit? : Sim
+
+23-4-2018  13:41:42 PM
+
+Preço muito alto (30749.99000000), vamos comprar depois...
+
+23-4-2018  13:42:12 PM
+
+Preço muito alto (30749.99000000), vamos comprar depois...
+Moeda: BTC
+Preço desejado para compra: 30780
+Usando Stop Profit? : Sim
+Usando Stop Loss?   : Sim
+
+23-4-2018  13:43:47 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00795 BTC,  por 30749.98992000, inserida no livro.
+Ordem de venda de 0.00795  BTC,  por 33824.988912,  inserida no livro.
+
+23-4-2018  13:44:16 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00795 BTC,  por 30749.98992000, inserida no livro.
+Ordem de venda de 0.00795  BTC,  por 33824.988912,  inserida no livro.
+
+23-4-2018  13:44:46 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00795 BTC,  por 30749.98985000, inserida no livro.
+Ordem de venda de 0.00795  BTC,  por 33824.988835000004,  inserida no livro.
+
+23-4-2018  13:45:16 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de venda de 0.00795  BTC,  por 33824.977648,  inserida no livro.
+Ordem de compra de 0.00795 BTC,  por 30749.97968000, inserida no livro.
+
+23-4-2018  13:45:46 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00795 BTC,  por 30748.98985000, inserida no livro.
+Ordem de venda de 0.00795  BTC,  por 33823.888835000005,  inserida no livro.
+
+23-4-2018  13:46:16 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00795 BTC,  por 30748.97968000, inserida no livro.
+Ordem de venda de 0.00795  BTC,  por 33823.877648,  inserida no livro.
+
+23-4-2018  13:46:46 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de venda de 0.00795  BTC,  por 33823.855428,  inserida no livro.
+Ordem de compra de 0.00795 BTC,  por 30748.95948000, inserida no livro.
+Moeda: BTC
+Preço desejado para compra: 30780
+Usando Stop Profit? : Sim  (10.000000000000009%)
+Usando Stop Loss?   : Sim   (1.0000000000000009%)
+
+23-4-2018  13:47:48 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00795 BTC,  por 30739.99993000, inserida no livro.
+Ordem de venda de 0.00795  BTC,  por 33813.999923,  inserida no livro.
+
+23-4-2018  13:48:18 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00795 BTC,  por 30739.98984000, inserida no livro.
+Ordem de venda de 0.00795  BTC,  por 33813.988824,  inserida no livro.
+Moeda: BTC
+Usando Stop Profit? : Sim  (10%)
+Preço desejado para compra: 30780
+Usando Stop Loss?   : Sim   (0.01%)
+
+23-4-2018  13:50:10 PM
+
+Saldo disponível de BRL: 244.70642
+Saldo disponível de BTC: 0.00001
+Ordem de compra de 0.00796 BTC,  por 30699.97996000, inserida no livro.
+Ordem de venda de 0.00796  BTC,  por 33769.977956,  inserida no livro.
+Moeda: BTC
+Preço desejado para compra: 30780
+Usando Stop Loss?   : Sim   (0.01%)
+Usando Stop Profit? : Sim  (8%)
+
+23-4-2018  13:51:15 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00796 BTC,  por 30699.95994000, inserida no livro.
+Ordem de venda de 0.00796  BTC,  por 33155.9567352,  inserida no livro.
+
+23-4-2018  13:51:45 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00796 BTC,  por 30699.94995000, inserida no livro.
+Ordem de venda de 0.00796  BTC,  por 33155.945946,  inserida no livro.
+
+23-4-2018  13:52:15 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00795 BTC,  por 30739.99999000, inserida no livro.
+Ordem de venda de 0.00795  BTC,  por 33199.1999892,  inserida no livro.
+
+23-4-2018  13:52:45 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00796 BTC,  por 30699.93994000, inserida no livro.
+Ordem de venda de 0.00796  BTC,  por 33155.9351352,  inserida no livro.
+
+23-4-2018  13:53:15 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00796 BTC,  por 30699.90993000, inserida no livro.
+Ordem de venda de 0.00796  BTC,  por 33155.9027244,  inserida no livro.
+
+23-4-2018  13:53:45 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00796 BTC,  por 30699.89991000, inserida no livro.
+Ordem de venda de 0.00796  BTC,  por 33155.8919028,  inserida no livro.
+
+
+23-4-2018  13:54:15 PM
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00796 BTC,  por 30699.89989000, inserida no livro.
+Ordem de venda de 0.00796  BTC,  por 33155.891881200005,  inserida no livro.
+23-4-2018  13:54:45 PM
+
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00796 BTC,  por 30699.87989000, inserida no livro.
+Ordem de venda de 0.00796  BTC,  por 33155.870281200005,  inserida no livro.
+
+23-4-2018  13:55:15 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00796 BTC,  por 30699.86988000, inserida no livro.
+Ordem de venda de 0.00796  BTC,  por 33155.8594704,  inserida no livro.
+
+23-4-2018  13:55:45 PM
+
+Saldo disponível de BTC: 0.00001
+Ordem de compra de 0.00796 BTC,  por 30699.85986000, inserida no livro.
+Saldo disponível de BRL: 244.70642
+Ordem de venda de 0.00796  BTC,  por 33155.848648800005,  inserida no livro.
+Moeda: BTC
+Preço desejado para compra: 30780
+Usando Stop Loss?   : Sim  (0.01%)
+Usando Stop Profit? : Sim  (6%)
+
+23-4-2018  14:51:35 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00799 BTC,  por 30600.00000000, inserida no livro.
+Ordem de venda de 0.00799  BTC,  por 32436,  inserida no livro.
+
+23-4-2018  14:52:05 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00799 BTC,  por 30600.00000000, inserida no livro.
+Ordem de venda de 0.00799  BTC,  por 32436,  inserida no livro.
+23-4-2018  14:52:35 PM
+
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00799 BTC,  por 30600.00000000, inserida no livro.
+Ordem de venda de 0.00799  BTC,  por 32436,  inserida no livro.
+
+
+23-4-2018  14:53:05 PM
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00799 BTC,  por 30600.00000000, inserida no livro.
+Ordem de venda de 0.00799  BTC,  por 32436,  inserida no livro.
+
+
+23-4-2018  14:53:35 PM
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00797 BTC,  por 30659.99999000, inserida no livro.
+Ordem de venda de 0.00797  BTC,  por 32499.5999894,  inserida no livro.
+
+23-4-2018  14:54:05 PM
+
+Saldo disponível de BTC: 0.00001
+Ordem de compra de 0.00797 BTC,  por 30659.99999000, inserida no livro.
+Saldo disponível de BRL: 244.70642
+Ordem de venda de 0.00797  BTC,  por 32499.5999894,  inserida no livro.
+
+23-4-2018  14:54:35 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00797 BTC,  por 30659.99999000, inserida no livro.
+Ordem de venda de 0.00797  BTC,  por 32499.5999894,  inserida no livro.
+
+
+23-4-2018  14:55:05 PM
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00797 BTC,  por 30659.99999000, inserida no livro.
+Ordem de venda de 0.00797  BTC,  por 32499.5999894,  inserida no livro.
+
+23-4-2018  14:55:35 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00797 BTC,  por 30660.00000000, inserida no livro.
+Ordem de venda de 0.00797  BTC,  por 32499.600000000002,  inserida no livro.
+
+23-4-2018  14:56:05 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00797 BTC,  por 30659.99999000, inserida no livro.
+Ordem de venda de 0.00797  BTC,  por 32499.5999894,  inserida no livro.
+
+23-4-2018  14:56:35 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00797 BTC,  por 30659.99999000, inserida no livro.
+Ordem de venda de 0.00797  BTC,  por 32499.5999894,  inserida no livro.
+
+23-4-2018  14:57:05 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00797 BTC,  por 30660.00000000, inserida no livro.
+Ordem de venda de 0.00797  BTC,  por 32499.600000000002,  inserida no livro.
+23-4-2018  14:57:35 PM
+
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00797 BTC,  por 30659.99999000, inserida no livro.
+Ordem de venda de 0.00797  BTC,  por 32499.5999894,  inserida no livro.
+23-4-2018  14:58:05 PM
+
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00797 BTC,  por 30660.00000000, inserida no livro.
+Ordem de venda de 0.00797  BTC,  por 32499.600000000002,  inserida no livro.
+
+
+23-4-2018  14:58:35 PM
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00797 BTC,  por 30660.00000000, inserida no livro.
+Ordem de venda de 0.00797  BTC,  por 32499.600000000002,  inserida no livro.
+
+23-4-2018  14:59:05 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00797 BTC,  por 30660.00000000, inserida no livro.
+Ordem de venda de 0.00797  BTC,  por 32499.600000000002,  inserida no livro.
+23-4-2018  14:59:35 PM
+
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00797 BTC,  por 30660.00000000, inserida no livro.
+Ordem de venda de 0.00797  BTC,  por 32499.600000000002,  inserida no livro.
+
+23-4-2018  15:00:05 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00797 BTC,  por 30660.00000000, inserida no livro.
+Ordem de venda de 0.00797  BTC,  por 32499.600000000002,  inserida no livro.
+23-4-2018  15:00:35 PM
+
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00797 BTC,  por 30660.00000000, inserida no livro.
+Ordem de venda de 0.00797  BTC,  por 32499.600000000002,  inserida no livro.
+
+23-4-2018  15:01:05 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00797 BTC,  por 30660.00000000, inserida no livro.
+Ordem de venda de 0.00797  BTC,  por 32499.600000000002,  inserida no livro.
+
+23-4-2018  15:01:35 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00797 BTC,  por 30660.00000000, inserida no livro.
+Ordem de venda de 0.00797  BTC,  por 32499.600000000002,  inserida no livro.
+
+23-4-2018  15:02:06 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00796 BTC,  por 30699.00000000, inserida no livro.
+Ordem de venda de 0.00796  BTC,  por 32540.940000000002,  inserida no livro.
+
+23-4-2018  15:02:35 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00796 BTC,  por 30699.00000000, inserida no livro.
+Ordem de venda de 0.00796  BTC,  por 32540.940000000002,  inserida no livro.
+
+23-4-2018  15:03:05 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00796 BTC,  por 30699.00000000, inserida no livro.
+Ordem de venda de 0.00796  BTC,  por 32540.940000000002,  inserida no livro.
+
+
+23-4-2018  15:03:35 PM
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00796 BTC,  por 30699.00000000, inserida no livro.
+Ordem de venda de 0.00796  BTC,  por 32540.940000000002,  inserida no livro.
+
+23-4-2018  15:04:05 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00796 BTC,  por 30698.00000000, inserida no livro.
+Ordem de venda de 0.00796  BTC,  por 32539.88,  inserida no livro.
+
+23-4-2018  15:04:35 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00796 BTC,  por 30698.00000000, inserida no livro.
+Ordem de venda de 0.00796  BTC,  por 32539.88,  inserida no livro.
+
+23-4-2018  15:05:06 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00796 BTC,  por 30698.00000000, inserida no livro.
+Ordem de venda de 0.00796  BTC,  por 32539.88,  inserida no livro.
+23-4-2018  15:05:35 PM
+
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00796 BTC,  por 30698.00000000, inserida no livro.
+Ordem de venda de 0.00796  BTC,  por 32539.88,  inserida no livro.
+
+23-4-2018  15:06:06 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00796 BTC,  por 30698.00000000, inserida no livro.
+Ordem de venda de 0.00796  BTC,  por 32539.88,  inserida no livro.
+
+23-4-2018  15:06:35 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00796 BTC,  por 30698.00000000, inserida no livro.
+Ordem de venda de 0.00796  BTC,  por 32539.88,  inserida no livro.
+
+23-4-2018  15:07:06 PM
+
+Saldo disponível de BRL: 244.70642
+Saldo disponível de BTC: 0.00001
+Ordem de compra de 0.00796 BTC,  por 30698.00000000, inserida no livro.
+Ordem de venda de 0.00796  BTC,  por 32539.88,  inserida no livro.
+
+23-4-2018  15:07:36 PM
+
+Saldo disponível de BTC: 0.00001
+Ordem de compra de 0.00796 BTC,  por 30698.00000000, inserida no livro.
+Saldo disponível de BRL: 244.70642
+Ordem de venda de 0.00796  BTC,  por 32539.88,  inserida no livro.
+
+23-4-2018  15:08:06 PM
+
+Saldo disponível de BTC: 0.00001
+Ordem de compra de 0.00796 BTC,  por 30697.99999000, inserida no livro.
+Saldo disponível de BRL: 244.70642
+Ordem de venda de 0.00796  BTC,  por 32539.8799894,  inserida no livro.
+Moeda: BCH
+Preço desejado para compra: 4780
+Usando Stop Loss?   : Sim  (0.01%)
+Usando Stop Profit? : Sim  (6%)
+
+23-4-2018  15:11:46 PM
+
+Saldo disponível de ${coin}: ${balanceCoin}
+Saldo disponível de BRL: ${balanceBRL}
+Ordem de compra de 0.051399999999999994 BCH,  por 4760.00000000, inserida no livro.
+Ordem de venda de 0.051399999999999994  BCH,  por 5045.6,  inserida no livro.
+
+23-4-2018  15:12:16 PM
+
+Saldo disponível de ${coin}: ${balanceCoin}
+Saldo disponível de BRL: ${balanceBRL}
+Ordem de venda de 0.051399999999999994  BCH,  por 5045.6,  inserida no livro.
+Ordem de compra de 0.051399999999999994 BCH,  por 4760.00000000, inserida no livro.
+
+23-4-2018  15:12:46 PM
+
+Saldo disponível de ${coin}: ${balanceCoin}
+Saldo disponível de BRL: ${balanceBRL}
+Ordem de compra de 0.051399999999999994 BCH,  por 4760.00000000, inserida no livro.
+Ordem de venda de 0.051399999999999994  BCH,  por 5045.6,  inserida no livro.
+Moeda: BCH
+Preço desejado para compra: 4780
+Usando Stop Loss?   : Sim  (0.01%)
+Usando Stop Profit? : Sim  (6%)
+
+23-4-2018  15:14:02 PM
+
+Saldo disponível de BCH: 0.00000
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.051399999999999994 BCH,  por 4760.00000000, inserida no livro.
+Ordem de venda de 0.051399999999999994  BCH,  por 5045.6,  inserida no livro.
+
+23-4-2018  15:14:32 PM
+
+Saldo disponível de BCH: 0.00000
+Saldo disponível de BRL: 244.70642
+Ordem de venda de 0.051399999999999994  BCH,  por 5045.6,  inserida no livro.
+Ordem de compra de 0.051399999999999994 BCH,  por 4760.00000000, inserida no livro.
+
+23-4-2018  15:15:02 PM
+
+Saldo disponível de BCH: 0.00000
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.051399999999999994 BCH,  por 4760.00000000, inserida no livro.
+Ordem de venda de 0.051399999999999994  BCH,  por 5045.6,  inserida no livro.
+
+23-4-2018  15:15:32 PM
+
+Saldo disponível de BCH: 0.00000
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.0515 BCH,  por 4750.50000000, inserida no livro.
+Ordem de venda de 0.0515  BCH,  por 5035.530000000001,  inserida no livro.
+
+23-4-2018  15:16:02 PM
+
+Saldo disponível de BCH: 0.00000
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.0515 BCH,  por 4750.50000000, inserida no livro.
+Ordem de venda de 0.0515  BCH,  por 5035.530000000001,  inserida no livro.
+
+23-4-2018  15:16:32 PM
+
+Saldo disponível de BCH: 0.00000
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.0515 BCH,  por 4750.50000000, inserida no livro.
+Ordem de venda de 0.0515  BCH,  por 5035.530000000001,  inserida no livro.
+
+23-4-2018  15:17:02 PM
+
+Saldo disponível de BCH: 0.00000
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.0515 BCH,  por 4750.50000000, inserida no livro.
+Ordem de venda de 0.0515  BCH,  por 5035.530000000001,  inserida no livro.
+
+23-4-2018  15:17:32 PM
+
+Saldo disponível de BRL: 244.70642
+Saldo disponível de BCH: 0.00000
+Ordem de compra de 0.0515 BCH,  por 4750.50000000, inserida no livro.
+Ordem de venda de 0.0515  BCH,  por 5035.530000000001,  inserida no livro.
+23-4-2018  15:18:02 PM
+
+
+Saldo disponível de BCH: 0.00000
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.0515 BCH,  por 4750.50000000, inserida no livro.
+Ordem de venda de 0.0515  BCH,  por 5035.530000000001,  inserida no livro.
+23-4-2018  15:18:32 PM
+
+
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.05139 BCH,  por 4761.00000000, inserida no livro.
+Saldo disponível de BCH: 0.00000
+Ordem de venda de 0.05139  BCH,  por 5046.66,  inserida no livro.
+
+23-4-2018  15:19:02 PM
+
+Saldo disponível de BCH: 0.00000
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.05139 BCH,  por 4761.00000000, inserida no livro.
+Ordem de venda de 0.05139  BCH,  por 5046.66,  inserida no livro.
+
+23-4-2018  15:19:32 PM
+
+Saldo disponível de BCH: 0.00000
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.05139 BCH,  por 4761.00000000, inserida no livro.
+Ordem de venda de 0.05139  BCH,  por 5046.66,  inserida no livro.
+
+23-4-2018  15:20:02 PM
+
+Saldo disponível de BCH: 0.00000
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.05139 BCH,  por 4761.00000000, inserida no livro.
+Ordem de venda de 0.05139  BCH,  por 5046.66,  inserida no livro.
+23-4-2018  15:20:32 PM
+
+
+Saldo disponível de BCH: 0.00000
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.05139 BCH,  por 4761.00000000, inserida no livro.
+Ordem de venda de 0.05139  BCH,  por 5046.66,  inserida no livro.
+
+23-4-2018  15:21:02 PM
+
+Saldo disponível de BCH: 0.00000
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.05139 BCH,  por 4761.00000000, inserida no livro.
+Ordem de venda de 0.05139  BCH,  por 5046.66,  inserida no livro.
+
+23-4-2018  15:21:32 PM
+
+Saldo disponível de BCH: 0.00000
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.05139 BCH,  por 4761.00000000, inserida no livro.
+Ordem de venda de 0.05139  BCH,  por 5046.66,  inserida no livro.
+
+23-4-2018  15:22:02 PM
+
+Saldo disponível de BCH: 0.00000
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.05139 BCH,  por 4761.00000000, inserida no livro.
+Ordem de venda de 0.05139  BCH,  por 5046.66,  inserida no livro.
+
+23-4-2018  15:22:32 PM
+
+Saldo disponível de BCH: 0.00000
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.051399999999999994 BCH,  por 4760.00000000, inserida no livro.
+Ordem de venda de 0.051399999999999994  BCH,  por 5045.6,  inserida no livro.
+
+23-4-2018  15:23:02 PM
+
+Saldo disponível de BCH: 0.00000
+Saldo disponível de BRL: 244.70642
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524507782568.
+
+23-4-2018  15:23:32 PM
+
+Saldo disponível de BCH: 0.00000
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.051399999999999994 BCH,  por 4760.00000000, inserida no livro.
+Ordem de venda de 0.051399999999999994  BCH,  por 5045.6,  inserida no livro.
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524507812574.
+
+23-4-2018  15:24:02 PM
+
+Saldo disponível de BCH: 0.00000
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.051759999999999994 BCH,  por 4727.00000000, inserida no livro.
+Ordem de venda de 0.051759999999999994  BCH,  por 5010.62,  inserida no livro.
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524507842590.
+
+23-4-2018  15:24:32 PM
+
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524507872705.
+Saldo disponível de BCH: 0.00000
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.051399999999999994 BCH,  por 4760.00000000, inserida no livro.
+Ordem de venda de 0.051399999999999994  BCH,  por 5045.6,  inserida no livro.
+Moeda: BCH
+Preço desejado para compra: 5000
+Usando Stop Loss?   : Sim  (0.01%)
+Usando Stop Profit? : Sim  (6%)
+23-4-2018  15:25:33 PM
+
+
+Saldo disponível de BRL: 244.70642
+Saldo disponível de BCH: 0.00000
+Ordem de compra de 0.05162 BCH,  por 4740.00000000, inserida no livro.
+Ordem de venda de 0.05162  BCH,  por 5024.400000000001,  inserida no livro.
+
+23-4-2018  15:26:03 PM
+
+Saldo disponível de BCH: 0.00000
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.05162 BCH,  por 4739.99999000, inserida no livro.
+Ordem de venda de 0.05162  BCH,  por 5024.399989400001,  inserida no livro.
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524507963788.
+Moeda: BCH
+Preço desejado para compra: 5000
+Usando Stop Loss?   : Sim  (0.01%)
+Usando Stop Profit? : Sim  (6%)
+23-4-2018  15:27:08 PM
+
+
+Saldo disponível de BRL: 244.70642
+Saldo disponível de BCH: 0.00000
+Ordem de compra de 0.051719999999999995 BCH,  por 4730.54000000, inserida no livro.
+Ordem de venda de 0.051719999999999995  BCH,  por 5014.3724,  inserida no livro.
+Moeda: BCH
+Preço desejado para compra: 5000
+Usando Stop Loss?   : Sim  (0.01%)
+Preço desejado para venda : 5010
+Usando Stop Profit? : Não
+
+23-4-2018  15:27:56 PM
+
+Ainda não é hora de vender ( actual:4630.00000000 / higher:4939.00000000)...
+Saldo disponível de BCH: 0.00000
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.051719999999999995 BCH,  por 4730.54000000, inserida no livro.
+
+23-4-2018  15:28:26 PM
+
+Ainda não é hora de vender ( actual:4640.00000000 / higher:4939.00000000)...
+Saldo disponível de BRL: 244.70642
+Saldo disponível de BCH: 0.00000
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524508106387.
+
+23-4-2018  15:28:56 PM
+
+Ainda não é hora de vender ( actual:4635.00001000 / higher:4939.00000000)...
+Saldo disponível de BCH: 0.00000
+Saldo disponível de BRL: 244.70642
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524508136398.
+23-4-2018  15:29:26 PM
+
+Ainda não é hora de vender ( actual:4635.00001000 / higher:4939.00000000)...
+
+Saldo disponível de BCH: 0.00000
+Saldo disponível de BRL: 244.70642
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524508166433.
+
+23-4-2018  15:29:56 PM
+
+Ainda não é hora de vender ( actual:4636.00000000 / higher:4939.00000000)...
+Saldo disponível de BCH: 0.00000
+Saldo disponível de BRL: 244.70642
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524508196406.
+
+
+Ainda não é hora de vender ( actual:4637.00000000 / higher:4939.00000000)...
+23-4-2018  15:30:26 PM
+Saldo disponível de BCH: 0.00000
+Saldo disponível de BRL: 244.70642
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524508226506.
+
+23-4-2018  15:30:56 PM
+
+Ainda não é hora de vender ( actual:4638.00001000 / higher:4939.00000000)...
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524508226506.
+Saldo disponível de BCH: 0.00000
+Saldo disponível de BRL: 244.70642
+
+23-4-2018  15:31:26 PM
+
+Ainda não é hora de vender ( actual:4639.00000000 / higher:4939.00000000)...
+Saldo disponível de BRL: 244.70642
+Saldo disponível de BCH: 0.00000
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524508286461.
+
+23-4-2018  15:31:56 PM
+
+Ainda não é hora de vender ( actual:4640.00001000 / higher:4939.00000000)...
+Saldo disponível de BCH: 0.00000
+Saldo disponível de BRL: 244.70642
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524508316484.
+
+23-4-2018  15:32:26 PM
+
+Ainda não é hora de vender ( actual:4650.00000000 / higher:4939.00000000)...
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524508316484.
+Saldo disponível de BCH: 0.00000
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.051559999999999995 BCH,  por 4745.01000000, inserida no livro.
+
+23-4-2018  15:32:56 PM
+
+Ainda não é hora de vender ( actual:4650.00002000 / higher:4939.00000000)...
+Saldo disponível de BCH: 0.00000
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.051559999999999995 BCH,  por 4745.01000000, inserida no livro.
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524508376561.
+
+23-4-2018  15:33:26 PM
+
+Ainda não é hora de vender ( actual:4652.00000000 / higher:4939.00000000)...
+Saldo disponível de BCH: 0.00000
+Saldo disponível de BRL: 244.70642
+Saldo disponível de BCH: 0.00000
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.05162 BCH,  por 4740.00000000, inserida no livro.
+Moeda: BCH
+Preço desejado para compra: 5000
+Usando Stop Loss?   : Sim  (0.01%)
+Usando Stop Profit? : Não
+Preço desejado para venda : 5010
+Moeda: BTC
+Preço desejado para compra: 30780
+Usando Stop Profit? : Sim  (6%)
+Usando Stop Loss?   : Sim  (0.01%)
+
+23-4-2018  15:34:30 PM
+
+Ainda não é hora de vender ( actual:4656.01000000 / higher:4939.00000000)...
+Saldo disponível de BRL: 244.70642
+Saldo disponível de BCH: 0.00000
+Ordem de compra de 0.051559999999999995 BCH,  por 4745.01000000, inserida no livro.
+
+23-4-2018  15:34:56 PM
+
+Saldo disponível de ${coin}: ${balanceCoin}
+Saldo disponível de BRL: ${balanceBRL}
+Ordem de compra de 0.00796 BTC,  por 30699.00000000, inserida no livro.
+Ordem de venda de 0.00796  BTC,  por 32540.940000000002,  inserida no livro.
+
+23-4-2018  15:35:00 PM
+
+Ainda não é hora de vender ( actual:4660.00001000 / higher:4939.00000000)...
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524508496594.
+Saldo disponível de BCH: 0.00000
+Saldo disponível de BRL: 244.70642
+Ordem de venda de 0.00000  BCH,  por 4660.00001000,  inserida no livro. 
+
+23-4-2018  15:35:30 PM
+
+Ainda não é hora de vender ( actual:4661.00000000 / higher:4939.00000000)...
+Saldo disponível de BCH: 0.00000
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.05157 BCH,  por 4744.00000000, inserida no livro.
+Saldo disponível de BCH: 0.00000
+Saldo disponível de BRL: 244.70642
+Ordem de venda de 0.00000  BCH,  por 4661.00000000,  inserida no livro. 
+
+23-4-2018  15:36:00 PM
+
+Ainda não é hora de vender ( actual:4662.00000000 / higher:4939.00000000)...
+Saldo disponível de BCH: 0.00000
+Saldo disponível de BRL: 244.70642
+Ordem de venda de 0.00000  BCH,  por 4662.00000000,  inserida no livro. 
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524508560683.
+Moeda: BTC
+Preço desejado para compra: 30780
+Usando Stop Profit? : Sim  (6%)
+Usando Stop Loss?   : Sim  (0.01%)
+
+23-4-2018  15:36:30 PM
+
+Ainda não é hora de vender ( actual:4662.00001000 / higher:4939.00000000)...
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524508590717.
+Saldo disponível de BCH: 0.00000
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.05157 BCH,  por 4744.00000000, inserida no livro.
+
+23-4-2018  15:36:38 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00796 BTC,  por 30699.00000000, inserida no livro.
+Ordem de venda de 0.00796  BTC,  por 32540.940000000002,  inserida no livro.
+
+23-4-2018  15:37:00 PM
+
+Ainda não é hora de vender ( actual:4662.00002000 / higher:4939.00000000)...
+Saldo disponível de BCH: 0.00000
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.05157 BCH,  por 4744.00000000, inserida no livro.
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524508620695.
+
+23-4-2018  15:37:08 PM
+
+Saldo disponível de BRL: 244.70642
+Saldo disponível de BTC: 0.00001
+Ordem de compra de 0.00796 BTC,  por 30700.00000000, inserida no livro.
+Ordem de venda de 0.00796  BTC,  por 32542,  inserida no livro.
+
+23-4-2018  15:37:30 PM
+
+Ainda não é hora de vender ( actual:4662.00002000 / higher:4939.00000000)...
+Saldo disponível de BCH: 0.00000
+Saldo disponível de BRL: 244.70642
+Ordem de venda de 0.00000  BCH,  por 4662.00002000,  inserida no livro. 
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524508650696.
+
+23-4-2018  15:37:38 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00796 BTC,  por 30699.99000000, inserida no livro.
+Ordem de venda de 0.00796  BTC,  por 32541.989400000002,  inserida no livro.
+
+23-4-2018  15:38:00 PM
+
+Ainda não é hora de vender ( actual:4663.00001000 / higher:4939.00000000)...
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524508658156.
+Saldo disponível de BCH: 0.00000
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.051559999999999995 BCH,  por 4745.00000000, inserida no livro.
+
+23-4-2018  15:38:11 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00796 BTC,  por 30699.98000000, inserida no livro.
+Ordem de venda de 0.00796  BTC,  por 32541.9788,  inserida no livro.
+
+23-4-2018  15:38:33 PM
+
+Ainda não é hora de vender ( actual:4670.00002000 / higher:4939.00000000)...
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524508691825.
+Saldo disponível de BRL: 244.70642
+Saldo disponível de BCH: 0.00000
+Ordem de compra de 0.05157 BCH,  por 4744.00000000, inserida no livro.
+23-4-2018  15:38:38 PM
+
+
+Taxa de requisições excedeu o limite de requisições no intervalo.
+
+23-4-2018  15:39:01 PM
+
+Ainda não é hora de vender ( actual:4670.00004000 / higher:4939.00000000)...
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524508718047.
+Saldo disponível de BCH: 0.00000
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.051559999999999995 BCH,  por 4744.80000000, inserida no livro.
+
+23-4-2018  15:39:08 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00796 BTC,  por 30700.00000000, inserida no livro.
+Ordem de venda de 0.00796  BTC,  por 32542,  inserida no livro.
+
+23-4-2018  15:39:35 PM
+
+Ainda não é hora de vender ( actual:4674.00000000 / higher:4939.00000000)...
+
+23-4-2018  15:39:38 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00796 BTC,  por 30700.00000000, inserida no livro.
+Ordem de venda de 0.00796  BTC,  por 32542,  inserida no livro.
+Saldo disponível de BCH: 0.00000
+Saldo disponível de BRL: 244.70642
+Ordem de venda de 0.00000  BCH,  por 4674.00000000,  inserida no livro. 
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524508778104.
+
+23-4-2018  15:40:00 PM
+
+Ainda não é hora de vender ( actual:4674.00003000 / higher:4939.00000000)...
+Taxa de requisições excedeu o limite de requisições no intervalo.
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524508800833.
+
+23-4-2018  15:40:08 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00796 BTC,  por 30700.00000000, inserida no livro.
+Ordem de venda de 0.00796  BTC,  por 32542,  inserida no livro.
+
+
+23-4-2018  15:40:30 PM
+Ainda não é hora de vender ( actual:4674.00004000 / higher:4939.00000000)...
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524508808161.
+Saldo disponível de BCH: 0.00000
+Saldo disponível de BRL: 244.70642
+Ordem de venda de 0.00000  BCH,  por 4674.00004000,  inserida no livro. 
+
+23-4-2018  15:40:38 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00796 BTC,  por 30700.00000000, inserida no livro.
+Ordem de venda de 0.00796  BTC,  por 32542,  inserida no livro.
+
+23-4-2018  15:41:02 PM
+
+Ainda não é hora de vender ( actual:4674.00005000 / higher:4939.00000000)...
+Saldo disponível de BCH: 0.00000
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.05162 BCH,  por 4740.00000000, inserida no livro.
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524508862669.
+
+23-4-2018  15:41:11 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00799 BTC,  por 30600.00000000, inserida no livro.
+Ordem de venda de 0.00799  BTC,  por 32436,  inserida no livro.
+
+23-4-2018  15:41:38 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00799 BTC,  por 30600.00000000, inserida no livro.
+Ordem de venda de 0.00799  BTC,  por 32436,  inserida no livro.
+Moeda: BCH
+Preço desejado para venda : 5010
+Preço desejado para compra: 5000
+Usando Stop Loss?   : Sim  (0.01%)
+Usando Stop Profit? : Não
+
+23-4-2018  15:42:08 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00795 BTC,  por 30749.99984000, inserida no livro.
+Ordem de venda de 0.00795  BTC,  por 32594.999830400004,  inserida no livro.
+
+23-4-2018  15:42:18 PM
+
+Ainda não é hora de vender por valor fixado: 5010 ( actual:4674.00009000 / higher:4939.00000000)...
+Saldo disponível de BRL: 244.70642
+Saldo disponível de BCH: 0.00000
+Ordem de compra de 0.05162 BCH,  por 4740.00000000, inserida no livro.
+
+23-4-2018  15:42:38 PM
+
+Taxa de requisições excedeu o limite de requisições no intervalo.
+
+23-4-2018  15:42:48 PM
+
+Ainda não é hora de vender por valor fixado: 5010 ( actual:4674.00011000 / higher:4939.00000000)...
+Saldo disponível de BCH: 0.00000
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.05162 BCH,  por 4740.00000000, inserida no livro.
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524508968817.
+
+23-4-2018  15:43:08 PM
+
+Saldo disponível de BTC: 0.00001
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.00795 BTC,  por 30749.97960000, inserida no livro.
+Ordem de venda de 0.00795  BTC,  por 32594.978376,  inserida no livro.
+
+23-4-2018  15:43:18 PM
+
+Ainda não é hora de vender por valor fixado: 5010 ( actual:4680.00000000 / higher:4939.00000000)...
+Saldo disponível de BCH: 0.00000
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.05162 BCH,  por 4740.00000000, inserida no livro.
+Taxa de requisições excedeu o limite de requisições no intervalo.
+
+23-4-2018  15:43:48 PM
+
+Ainda não é hora de vender por valor fixado: 5010 ( actual:4680.00001000 / higher:4939.00000000)...
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524508998943.
+Saldo disponível de BCH: 0.00000
+Saldo disponível de BRL: 244.70642
+STOP LOSS: Ordem de venda de 0.00000  BCH,  por 4680.00001000,  inserida no livro. 
+
+23-4-2018  15:44:18 PM
+
+Ainda não é hora de vender por valor fixado: 5010 ( actual:4680.00001000 / higher:4939.00000000)...
+Valor do *tapi_nonce* inválido, valor deve ser maior do que o último utilizado: 1524509028849.
+Saldo disponível de BCH: 0.00000
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.05162 BCH,  por 4740.00000000, inserida no livro.
+
+23-4-2018  15:44:48 PM
+
+Ainda não é hora de vender por valor fixado: 5010 ( actual:4739.00000000 / higher:4939.00000000)...
+Saldo disponível de BCH: 0.00000
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.05162 BCH,  por 4740.00000000, inserida no livro.
+
+23-4-2018  15:45:18 PM
+Ainda não é hora de vender por valor fixado: 5010 ( actual:4739.00000000 / higher:4939.00000000)...
+
+Saldo disponível de BCH: 0.00000
+Saldo disponível de BRL: 244.70642
+Ordem de compra de 0.05162 BCH,  por 4740.00000000, inserida no livro.
+Moeda: BCH
+Preço desejado para compra: 5000
+Usando Stop Loss?   : Sim  (0.05%)
+Usando Stop Profit? : Não
+Preço desejado para venda : 5010
+Moeda: BCH
+Preço desejado para compra: 4500
+Preço desejado para venda : 5000
+Usando Stop Loss?   : Sim  (0.05%)
+Usando Stop Profit? : Não
+
+23-4-2018  15:47:35 PM
+
+Preço muito alto (4735.00000000), vamos comprar depois...
+Ainda não é hora de vender por valor fixado: 5000 ( actual:4680.00004000 / higher:4939.00000000)...
+
+23-4-2018  15:48:05 PM
+
+Preço muito alto (4735.00000000), vamos comprar depois...
+Ainda não é hora de vender por valor fixado: 5000 ( actual:4680.00005000 / higher:4939.00000000)...
+23-4-2018  15:48:35 PM
+
+
+Preço muito alto (4735.00000000), vamos comprar depois...
+Ainda não é hora de vender por valor fixado: 5000 ( actual:4690.00000000 / higher:4939.00000000)...
+
+23-4-2018  15:49:05 PM
+
+Preço muito alto (4735.00000000), vamos comprar depois...
+Ainda não é hora de vender por valor fixado: 5000 ( actual:4700.10000000 / higher:4939.00000000)...
+23-4-2018  15:49:35 PM
+
+Preço muito alto (4735.00000000), vamos comprar depois...
+Ainda não é hora de vender por valor fixado: 5000 ( actual:4734.99999000 / higher:4939.00000000)...
+
+
+23-4-2018  15:50:05 PM
+
+Preço muito alto (4735.00000000), vamos comprar depois...
+Ainda não é hora de vender por valor fixado: 5000 ( actual:4700.00000000 / higher:4939.00000000)...
+
+23-4-2018  15:50:35 PM
+
+Preço muito alto (4735.00000000), vamos comprar depois...
+Ainda não é hora de vender por valor fixado: 5000 ( actual:4700.00000000 / higher:4939.00000000)...
+Moeda: BCH
+Preço desejado para compra: 4500
+Usando Stop Loss?   : Sim  (0.05%)
+Preço desejado para venda : 4700
+Usando Stop Profit? : Não
+
+23-4-2018  15:51:47 PM
+Preço muito alto (4735.00000000), vamos comprar depois...
+
+Saldo disponível de BCH: 0.00000
+Saldo disponível de BRL: 244.70642
+Sem saldo em BCH para vender...
+
+
+Preço muito alto (4744.80000000), vamos comprar depois...
+23-4-2018  15:52:17 PM
+Saldo disponível de BCH: 0.00000
+Saldo disponível de BRL: 244.70642
+Sem saldo em BCH para vender...
+
+23-4-2018  15:52:47 PM
+
+Preço muito alto (4761.00000000), vamos comprar depois...
+Saldo disponível de BCH: 0.00000
+Saldo disponível de BRL: 244.70642
+Sem saldo em BCH para vender...
+23-4-2018  15:53:17 PM
+
+Preço muito alto (4761.00000000), vamos comprar depois...
+
+Saldo disponível de BCH: 0.00000
+Saldo disponível de BRL: 244.70642
+Sem saldo em BCH para vender...
+
+
+Preço muito alto (4761.00000000), vamos comprar depois...
+23-4-2018  15:53:47 PM
+Saldo disponível de BCH: 0.00000
+Saldo disponível de BRL: 244.70642
+Sem saldo em BCH para vender...
+
+23-4-2018  15:54:17 PM
+
+Preço muito alto (4761.00000000), vamos comprar depois...
+Saldo disponível de BCH: 0.00000
+Saldo disponível de BRL: 244.70642
+Sem saldo em BCH para vender...
+
+23-4-2018  15:54:47 PM
+Preço muito alto (4760.00000000), vamos comprar depois...
+
+Saldo disponível de BCH: 0.00000
+Saldo disponível de BRL: 244.70642
+Sem saldo em BCH para vender...
+
+
+Preço muito alto (4760.00000000), vamos comprar depois...
+23-4-2018  15:55:17 PM
+Saldo disponível de BCH: 0.00000
+Saldo disponível de BRL: 244.70642
+Sem saldo em BCH para vender...
+
+23-4-2018  15:55:47 PM
+
+Preço muito alto (4761.00000000), vamos comprar depois...
+Saldo disponível de BCH: 0.00000
+Saldo disponível de BRL: 244.70642
+Sem saldo em BCH para vender...
+23-4-2018  15:56:17 PM
+
+
+Preço muito alto (4761.00000000), vamos comprar depois...
+Saldo disponível de BCH: 0.00000
+Saldo disponível de BRL: 244.70642
+Sem saldo em BCH para vender...
+
+23-4-2018  15:56:47 PM
+
+Preço muito alto (4761.00000000), vamos comprar depois...
+Saldo disponível de BRL: 244.70642
+Saldo disponível de BCH: 0.00000
+Sem saldo em BCH para vender...
+23-4-2018  15:57:17 PM
+
+Preço muito alto (4761.00000000), vamos comprar depois...
+
+Saldo disponível de BCH: 0.00000
+Saldo disponível de BRL: 244.70642
+Sem saldo em BCH para vender...
+
+23-4-2018  15:57:47 PM
+Preço muito alto (4761.00000000), vamos comprar depois...
+
+Saldo disponível de BCH: 0.00000
+Saldo disponível de BRL: 244.70642
+Sem saldo em BCH para vender...
+
+23-4-2018  15:58:17 PM
+
+Preço muito alto (4760.99990000), vamos comprar depois...
+Saldo disponível de BCH: 0.00000
+Saldo disponível de BRL: 244.70642
+Sem saldo em BCH para vender...
+Moeda: BCH
+Preço desejado para compra: 4800
+Usando Stop Loss?   : Sim  (0.05%)
+Usando Stop Profit? : Sim  (10%)
