@@ -224,5 +224,5 @@ function log(info)
 }
 
 //chama funcao trader
-tradeCoin('BCH', '5100', '5500', false, true);
+tradeCoin('BCH', '4400', '4840', true, true);
 
